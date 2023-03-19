@@ -209,6 +209,7 @@ body {
 .contact__telefon {
   position: absolute;
   align-self: flex-end;
+  white-space: nowrap;
   transform: translateY(92px);
   font-size: 24px;
   letter-spacing: -0.6px;
